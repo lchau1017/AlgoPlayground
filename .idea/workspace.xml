@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ebd378-3803-469a-ac4b-b5e781adcf95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/13_Roman_To_Integer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/13_Roman_To_Integer_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/1_TwoSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/1_TwoSum_Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -27,6 +39,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2497eae9-a86b-48a7-ad46-96ab19104863" />
+        <option name="url" value="https://github.com/lchau1017/AlgoPlayground.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,8 +62,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.13_Roman_To_Integer_Test">
-    <configuration name="13_Roman_To_Integer_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="leetcode.array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.1_TwoSum_Test">
+    <configuration name="13_Roman_To_Integer_Test.test_MCMXCIV_equals_1994" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -56,7 +81,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;leetcode.array.13_Roman_To_Integer_Test&quot;" />
+            <option value="&quot;leetcode.array.13_Roman_To_Integer_Test.test_MCMXCIV_equals_1994&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -66,7 +91,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="13_Roman_To_Integer_Test.test_LVIII_equals_58" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="1_TwoSum_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -79,7 +104,76 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;leetcode.array.13_Roman_To_Integer_Test.test_LVIII_equals_58&quot;" />
+            <option value="&quot;leetcode.array.1_TwoSum_Test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="1_TwoSum_Test.given nums = [2, 7, 11, 15], target = 9" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;leetcode.array.1_TwoSum_Test.given nums = [2, 7, 11, 15], target = 9&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="1_TwoSum_Test.given_nums[2,7,11,15],target = 9" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;leetcode.array.1_TwoSum_Test.given_nums[2,7,11,15],target = 9&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="1_TwoSum_Test.test nums(2,7,11,15),target = 9" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;leetcode.array.1_TwoSum_Test.test nums(2,7,11,15),target = 9&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -91,8 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.13_Roman_To_Integer_Test" />
-        <item itemvalue="Gradle.13_Roman_To_Integer_Test.test_LVIII_equals_58" />
+        <item itemvalue="Gradle.1_TwoSum_Test" />
+        <item itemvalue="Gradle.1_TwoSum_Test.test nums(2,7,11,15),target = 9" />
+        <item itemvalue="Gradle.1_TwoSum_Test.given_nums[2,7,11,15],target = 9" />
+        <item itemvalue="Gradle.1_TwoSum_Test.given nums = [2, 7, 11, 15], target = 9" />
+        <item itemvalue="Gradle.13_Roman_To_Integer_Test.test_MCMXCIV_equals_1994" />
       </list>
     </recent_temporary>
   </component>
@@ -117,5 +214,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <condition expression="i == 3&#10;" language="kotlin" mode="CODE_FRAGMENT" />
+          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/13_Roman_To_Integer.kt</url>
+          <line>67</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/1_TwoSum.kt</url>
+          <line>4</line>
+          <properties class="leetcode.array.1_TwoSum" method="twoSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
