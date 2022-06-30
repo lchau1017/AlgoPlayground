@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ebd378-3803-469a-ac4b-b5e781adcf95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/1_TwoSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/1_TwoSum_Test.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/1991_Find_The_Middle_Index_In_Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/747_Largest_Number_At_Least_Twice_Of_Others.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/1991_Find_The_Middle_Index_In_Array_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/747_Largest_Number_At_Least_Twice_Of_Others_Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/13_Roman_To_Integer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/13_Roman_To_Integer.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/lungchau/Documents/code/kotlin/algo/AlgoPlayground"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -67,8 +73,8 @@
       <recent name="leetcode.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.1_TwoSum_Test">
-    <configuration name="13_Roman_To_Integer_Test.test_MCMXCIV_equals_1994" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.747_Largest_Number_At_Least_Twice_Of_Others_Test">
+    <configuration name="1991_Find_The_Middle_Index_In_Array_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -81,7 +87,30 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;leetcode.array.13_Roman_To_Integer_Test.test_MCMXCIV_equals_1994&quot;" />
+            <option value="&quot;leetcode.array.1991_Find_The_Middle_Index_In_Array_Test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="1991_Find_The_Middle_Index_In_Array_Test.test_input_(1,7,3,6,5,6)_output_3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;leetcode.array.1991_Find_The_Middle_Index_In_Array_Test.test_input_(1,7,3,6,5,6)_output_3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -114,52 +143,6 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="1_TwoSum_Test.given nums = [2, 7, 11, 15], target = 9" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;leetcode.array.1_TwoSum_Test.given nums = [2, 7, 11, 15], target = 9&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="1_TwoSum_Test.given_nums[2,7,11,15],target = 9" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;leetcode.array.1_TwoSum_Test.given_nums[2,7,11,15],target = 9&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="1_TwoSum_Test.test nums(2,7,11,15),target = 9" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -183,13 +166,36 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="747_Largest_Number_At_Least_Twice_Of_Others_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;leetcode.array.747_Largest_Number_At_Least_Twice_Of_Others_Test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.747_Largest_Number_At_Least_Twice_Of_Others_Test" />
+        <item itemvalue="Gradle.1991_Find_The_Middle_Index_In_Array_Test" />
+        <item itemvalue="Gradle.1991_Find_The_Middle_Index_In_Array_Test.test_input_(1,7,3,6,5,6)_output_3" />
         <item itemvalue="Gradle.1_TwoSum_Test" />
         <item itemvalue="Gradle.1_TwoSum_Test.test nums(2,7,11,15),target = 9" />
-        <item itemvalue="Gradle.1_TwoSum_Test.given_nums[2,7,11,15],target = 9" />
-        <item itemvalue="Gradle.1_TwoSum_Test.given nums = [2, 7, 11, 15], target = 9" />
-        <item itemvalue="Gradle.13_Roman_To_Integer_Test.test_MCMXCIV_equals_1994" />
       </list>
     </recent_temporary>
   </component>
@@ -201,8 +207,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656436453864</updated>
+      <workItem from="1656592616529" duration="7690000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -221,7 +231,7 @@
         <line-breakpoint enabled="true" type="kotlin-line">
           <condition expression="i == 3&#10;" language="kotlin" mode="CODE_FRAGMENT" />
           <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/13_Roman_To_Integer.kt</url>
-          <line>67</line>
+          <line>66</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
