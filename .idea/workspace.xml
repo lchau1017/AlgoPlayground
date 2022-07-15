@@ -5,14 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ebd378-3803-469a-ac4b-b5e781adcf95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/1991_Find_The_Middle_Index_In_Array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/747_Largest_Number_At_Least_Twice_Of_Others.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/1991_Find_The_Middle_Index_In_Array_Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/747_Largest_Number_At_Least_Twice_Of_Others_Test.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/Array_Partition_I.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/Contains_Duplicate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/Merge_Sorted_Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/Minimum_Size_Subarray_Sum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/binary_search/Search_In_Rotated_Sorted_Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/binary_search/Sqrt(x).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/recursion/Climbing_Stairs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/recursion/Fibonacci_Number.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/recursion/Reverse_String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/recursion/linkedlist/ListNode.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/recursion/linkedlist/Reverse_Linked_List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/recursion/linkedlist/Swap_Nodes_In_Pairs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/Array_Partition_I_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/Merge_Sorted_Array_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/array/Minimum_Size_Subarray_Sum_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/binary_search/Search_In_Rotated_Sorted_Array_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/binary_search/Sqrt(x)_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/recursion/Climbing_Stairs_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/recursion/Contains_Duplicate_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/recursion/Fibonacci_Number_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/recursion/Reverse_Linked_List_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/recursion/Reverse_String_Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/leetcode/recursion/Swap_Nodes_In_Pairs_Test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/13_Roman_To_Integer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode.array/13_Roman_To_Integer.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +81,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/lungchau/Documents/code/kotlin/algo/AlgoPlayground"
+    "last_opened_file_path": "/Users/lungchau/Documents/code/kotlin/algo/AlgoPlayground",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="leetcode.array" />
+    </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="leetcode.recursion" />
+      <recent name="recursion.linkedlist" />
       <recent name="leetcode.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.747_Largest_Number_At_Least_Twice_Of_Others_Test">
-    <configuration name="1991_Find_The_Middle_Index_In_Array_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.Merge_Sorted_Array_Test">
+    <configuration name="Climbing_Stairs_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -87,7 +109,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;leetcode.array.1991_Find_The_Middle_Index_In_Array_Test&quot;" />
+            <option value="&quot;leetcode.recursion.Climbing_Stairs_Test&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -97,7 +119,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="1991_Find_The_Middle_Index_In_Array_Test.test_input_(1,7,3,6,5,6)_output_3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Contains_Duplicate_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -110,7 +132,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;leetcode.array.1991_Find_The_Middle_Index_In_Array_Test.test_input_(1,7,3,6,5,6)_output_3&quot;" />
+            <option value="&quot;leetcode.recursion.Contains_Duplicate_Test&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -120,7 +142,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="1_TwoSum_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Fibonacci_Number_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -133,7 +155,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;leetcode.array.1_TwoSum_Test&quot;" />
+            <option value="&quot;leetcode.recursion.Fibonacci_Number_Test&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -143,7 +165,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="1_TwoSum_Test.test nums(2,7,11,15),target = 9" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Fibonacci_Number_Test.test_input_4_output_3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -156,7 +178,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;leetcode.array.1_TwoSum_Test.test nums(2,7,11,15),target = 9&quot;" />
+            <option value="&quot;leetcode.recursion.Fibonacci_Number_Test.test_input_4_output_3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -166,7 +188,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="747_Largest_Number_At_Least_Twice_Of_Others_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Merge_Sorted_Array_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -179,7 +201,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;leetcode.array.747_Largest_Number_At_Least_Twice_Of_Others_Test&quot;" />
+            <option value="&quot;leetcode.array.Merge_Sorted_Array_Test&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -191,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.747_Largest_Number_At_Least_Twice_Of_Others_Test" />
-        <item itemvalue="Gradle.1991_Find_The_Middle_Index_In_Array_Test" />
-        <item itemvalue="Gradle.1991_Find_The_Middle_Index_In_Array_Test.test_input_(1,7,3,6,5,6)_output_3" />
-        <item itemvalue="Gradle.1_TwoSum_Test" />
-        <item itemvalue="Gradle.1_TwoSum_Test.test nums(2,7,11,15),target = 9" />
+        <item itemvalue="Gradle.Merge_Sorted_Array_Test" />
+        <item itemvalue="Gradle.Contains_Duplicate_Test" />
+        <item itemvalue="Gradle.Climbing_Stairs_Test" />
+        <item itemvalue="Gradle.Fibonacci_Number_Test" />
+        <item itemvalue="Gradle.Fibonacci_Number_Test.test_input_4_output_3" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +229,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656436453864</updated>
-      <workItem from="1656592616529" duration="7690000" />
+      <workItem from="1656592616529" duration="9391000" />
+      <workItem from="1656799562123" duration="18079000" />
+      <workItem from="1657660499026" duration="4400000" />
+      <workItem from="1657746302069" duration="29502000" />
     </task>
     <servers />
   </component>
@@ -228,12 +253,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <condition expression="i == 3&#10;" language="kotlin" mode="CODE_FRAGMENT" />
-          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/13_Roman_To_Integer.kt</url>
-          <line>66</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/1_TwoSum.kt</url>
           <line>4</line>
@@ -242,6 +261,46 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/Minimum_Size_Subarray_Sum.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/Array_Partition_I.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode/binary_search/Search_In_Rotated_Sorted_Array.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode/binary_search/Search_In_Rotated_Sorted_Array.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/recursion/linkedlist/Reverse_Linked_List.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/recursion/linkedlist/Swap_Nodes_In_Pairs.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/Contains_Duplicate.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/leetcode.array/Merge_Sorted_Array.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
