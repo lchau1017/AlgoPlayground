@@ -3,22 +3,16 @@ package leetcode.array
 class Merge_Sorted_Array {
 
     fun solution(nums1: IntArray, m: Int, nums2: IntArray, n: Int): IntArray? {
-
-
-        if (m == 0) {
-            for (i in nums2.indices) {
-                nums1[i] = nums2[i]
-            }
-            return nums1
-        }
-
         var i = m - 1
         var j = n - 1
         var right = m + n - 1
 
         while (right >= 0) {
 
-            if (i >= 0 && nums1[i] > nums2[j]) {
+            if (j < 0) {
+                break
+            }
+            if (i >= 0 && nums1[i] >= nums2[j]) {
                 nums1[right] = nums1[i]
                 i--
             } else {
@@ -28,7 +22,6 @@ class Merge_Sorted_Array {
 
             right--
         }
-
         return nums1
     }
 
